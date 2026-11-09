@@ -58,7 +58,7 @@ PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-   “api.gzcrtw.com:443”；
+ “api.gzcrtw.com:443”；
  “baota.us.kg:443”；
  “saas.072159.xyz:443”；
  “www.wuduanyun.com:443”；
