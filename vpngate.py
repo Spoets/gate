@@ -51,27 +51,30 @@ DEFAULT_VPNGATE_API = "http://www.vpngate.net/api/iphone/"
 DEFAULT_VPNGATE_MIRROR = (
     "https://raw.githubusercontent.com/fdciabdul/Vpngate-Scraper-API/main/json/data.json"
 )
-DEFAULT_OPTIMAL_API = ""
+DEFAULT_OPTIMAL_API = "https://cf.090227.xyz/ct?ips=6&port=443"
 
 # 占位符检测：命中任意一个就认为用户还没配置
 PLACEHOLDER_MARKERS = ("你的", "YOUR_", "YOUR-", "example.com", "yourdomain")
 
 # 静态优选域名池（可用 EDGE_HOSTS 整体覆盖）
 DEFAULT_EDGE_HOSTS = [
-    "saas.sin.fan:443",
-    "www.mfyx.cn:443",
-    "cf.nyanya.moe:443",
-    "cf.877774.xyz:443",
-    "cdn.204910.best:443",
-    "cdn.ctn32.us.kg:443",
-    "p.etime.vip:443",
-    "cmcc.vvvv.ee:443",
-    "cfsaas.080112.xyz:443",
-    "cdn.aneko.ink:443",
-    "hk.cf.3666888.xyz:443",
-    "best.hzample.kdns.fr:443",
-    "ctsg.cfyx.aliyun.20237737.xyz:443",
-    "china-unicom.cname.cloudflare.468123.xyz:443",
+   “api.gzcrtw.com:443”；
+ “baota.us.kg:443”；
+ “saas.072159.xyz:443”；
+ “www.wuduanyun.com:443”；
+ “cdn.204910.best:443”；
+ “bbs.alipansou.com:443”；
+ “auto.dolby.dpdns.org:443”；
+ “cf.877774.xyz:443”；
+ “img.css.sd:443”；
+ “eii.at:443”；
+ “saas.sin.fan:443”；
+ “idc.urkeji.com:443”；
+ “www.mfyx.cn:443”；
+ “224322.xyz:443”；
+ “cf.xreak.top:443”；
+ “jellyfin.roddy.eu.cc:443”；
+ “op.chinwa.eu.cc:443”；
 ]
 
 DATA_CENTER_ORG_KEYWORDS = [
